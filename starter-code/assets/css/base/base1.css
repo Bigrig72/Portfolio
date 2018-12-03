@@ -132,7 +132,7 @@ input, select, textarea {
 	}
 
 		h2.alt {
-			color: #888;
+			color: green;
 			font-family: 'Rye', cursive;
 		}
 
@@ -150,6 +150,7 @@ input, select, textarea {
 
 		header > p {
 			margin: 1em 0 0 0;
+			color: red;
 		}
 
 	footer {
@@ -213,4 +214,8 @@ input, select, textarea {
 	}
 p {
 	font-family: 'Dancing Script', cursive;
+}
+
+span.image.avatar48 {
+	background-image: url('../images/headerpine.jpg')
 }
